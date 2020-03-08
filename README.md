@@ -1,24 +1,10 @@
-# django_rest_tutorial# Django REST Framework (Serialization)
+# Django REST Framework (Serialization)
 
 [Django REST Framework -Serializers](https://dean-kim.github.io/rest_framework/2017/05/08/Django-REST-Framework-Serializers.html)
 
 ## Tutorial 1: Serialization
 
 ### Setting Environment & Getting Started
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - PyCharm에서 "New Project" 생성한 뒤 가상환경 세팅
 
@@ -184,5 +170,3 @@
 ![Django%20REST%20Framework%20Serialization/Untitled%2013.png](Django%20REST%20Framework%20Serialization/Untitled%2013.png)
 
 ![Django%20REST%20Framework%20Serialization/Untitled%2014.png](Django%20REST%20Framework%20Serialization/Untitled%2014.png)
-
-## Tutorial 2: Request and Responses
