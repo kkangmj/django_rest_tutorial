@@ -67,7 +67,7 @@ from rest_framework.response import Response
 from .models import Snippet
 from .serializers import SnippetSerializer
 
-# List all snippets or create newe one
+# List all snippets or create new one
 @api_view(['GET', 'POST'])
 def snippet_list(request, format=None):
     if request.method == 'GET':
